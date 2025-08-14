@@ -1,10 +1,9 @@
-# ======= Grindr 核心域名 ======= #
-DOMAIN-SUFFIX,grindr.com       # 主域名
-DOMAIN-SUFFIX,grindr.mobi      # 移动版域名
-DOMAIN-SUFFIX,grindr.io        # API 服务
-DOMAIN-SUFFIX,grindr-cdn.com   # CDN 资源
-DOMAIN-SUFFIX,grindrassets.com # 静态资源
-DOMAIN-SUFFIX,grindrphotos.com # 图片服务
-  
-# ======= 关键子域名（可选添加） ======= #
-DOMAIN-KEYWORD,grindr         # 兜底规则（匹配包含"grindr"的域名）
+# 内容：grindr
+# 数量：7条
+DOMAIN-SUFFIX,grindr.com
+DOMAIN-SUFFIX,grindr.mobi
+DOMAIN-SUFFIX,grindr.io
+DOMAIN-SUFFIX,grindr-cdn.com
+DOMAIN-SUFFIX,grindrassets.com
+DOMAIN-SUFFIX,grindrphotos.com
+DOMAIN-KEYWORD,grindr
