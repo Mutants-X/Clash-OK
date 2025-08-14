@@ -1,19 +1,12 @@
-  # ===== Grindr 自有广告服务 =====
-DOMAIN-SUFFIX,adgrx.com        # Grindr 主要广告服务
-DOMAIN-SUFFIX,adgrx.net         # 广告交易平台域名
-DOMAIN,adengine.gotrackier.com   # 广告引擎服务
-  
-  # ===== 第三方广告平台 =====
-DOMAIN-SUFFIX,applovin.com     # AppLovin 广告平台
-DOMAIN-SUFFIX,inmobi.com        # InMobi 广告平台
-DOMAIN-SUFFIX,ironsrc.mobi      # IronSource 广告
-  
-  # ===== 用户分析与跟踪 =====
-DOMAIN-SUFFIX,adjust.com        # 用户行为跟踪
-DOMAIN-SUFFIX,adjust.io         # 移动归因服务
-DOMAIN-SUFFIX,appsflyer.com    # 广告归因分析
-DOMAIN-SUFFIX,branch.io        # 深度链接跟踪
-  
-  # ===== 广告联盟兜底规则 =====
-DOMAIN-KEYWORD,adservice        # Google广告服务
-DOMAIN-KEYWORD,adsystem       # 通用广告系统
+DOMAIN-SUFFIX,adgrx.com
+DOMAIN-SUFFIX,adgrx.net
+DOMAIN,adengine.gotrackier.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,ironsrc.mobi
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-KEYWORD,adservice
+DOMAIN-KEYWORD,adsystem
