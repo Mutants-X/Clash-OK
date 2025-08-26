@@ -1,7 +1,0 @@
-# 内容：lanzou
-# 数量：5条
-IP-CIDR,47.98.88.99/32,DIRECT
-DOMAIN-SUFFIX,lanrar.com,DIRECT,no-resolve
-DOMAIN-SUFFIX,lanzou.com,DIRECT,no-resolve
-DOMAIN-KEYWORD,oss,DIRECT,no-resolve
-DOMAIN,developer-oss.lanrar.com,DIRECT,no-resolve
