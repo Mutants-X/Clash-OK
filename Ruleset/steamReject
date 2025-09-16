@@ -1,9 +1,0 @@
-# 内容：Steam拦截
-# 数量：7条
-DOMAIN-SUFFIX,akamaihd.net
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamdeck.com
-DOMAIN,img.youtube.com
