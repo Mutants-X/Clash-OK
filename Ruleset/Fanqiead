@@ -1,0 +1,36 @@
+# ===== 番茄小说去广告规则 (Clash格式) =====
+# 字节系广告基础域名
+- DOMAIN,p6-ad-sign.byteimg.com
+- DOMAIN,p9-ad-sign.byteimg.com
+- DOMAIN,i.snssdk.com
+- DOMAIN,i-lq.snssdk.com
+- DOMAIN,is.snssdk.com
+- DOMAIN,mcs.snssdk.com
+- DOMAIN,tnc3-alisc1.snssdk.com
+- DOMAIN,tnc3-aliec2.snssdk.com
+- DOMAIN,security-lq.snssdk.com
+- DOMAIN,dig.bdurl.net
+- DOMAIN,activity-ag.awemeughun.com
+- DOMAIN,gurd.snssdk.com
+
+# 穿山甲 / GroMore 广告SDK
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+- DOMAIN-SUFFIX,pglstatp-toutiao.com
+
+# 其他相关域名
+- DOMAIN-SUFFIX,byteorge.com
+- DOMAIN-SUFFIX,bytegoofy.com
+- DOMAIN-KEYWORD,zijieapi
+- DOMAIN-KEYWORD,-ad-sign.byteimg.com
+- DOMAIN-KEYWORD,pangolin
+
+# 部分IP直连广告请求（可选，精准拦截）
+- IP-CIDR,49.71.37.101/32,REJECT,no-resolve
+- IP-CIDR,117.71.105.23/32,REJECT,no-resolve
+- IP-CIDR,218.94.207.205/32,REJECT,no-resolve
+- IP-CIDR,117.92.229.188/32,REJECT,no-resolve
+- IP-CIDR,101.36.166.16/32,REJECT,no-resolve
+- IP-CIDR,180.96.2.114/32,REJECT,no-resolve
+# ===== 规则结束 =====
